@@ -1,0 +1,2 @@
+2022-09-19 14:10:29,252 yield_product_case.py--> setUpClass 20: INFO ----->------执行添加生产产品case------
+2022-09-19 14:10:38,982 yield_product_handle.py--> add_yield 20: INFO ----->找到文本:脚本测试新建产品,生产产品添加成功
